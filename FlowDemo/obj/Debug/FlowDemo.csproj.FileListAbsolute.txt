@@ -1,0 +1,16 @@
+E:\C#project\demo\DragDemo\FlowDemo\bin\Debug\FlowDemo.exe.config
+E:\C#project\demo\DragDemo\FlowDemo\bin\Debug\FlowDemo.exe
+E:\C#project\demo\DragDemo\FlowDemo\bin\Debug\FlowDemo.pdb
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.csproj.AssemblyReference.cache
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.csproj.SuggestedBindingRedirects.cache
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\MainWindow.g.cs
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\App.g.cs
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo_MarkupCompile.cache
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo_MarkupCompile.lref
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\MainWindow.baml
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.g.resources
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.Properties.Resources.resources
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.csproj.GenerateResource.cache
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.csproj.CoreCompileInputs.cache
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.exe
+E:\C#project\demo\DragDemo\FlowDemo\obj\Debug\FlowDemo.pdb
